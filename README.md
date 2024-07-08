@@ -7,7 +7,7 @@
 [![MLX90614 Sensor](https://img.shields.io/badge/MLX90614-Sensor-green.svg)](#hardware-required)
 [![Adafruit GFX](https://img.shields.io/badge/Adafruit-GFX-orange.svg)](#software-setup)
 [![SSD1306 OLED](https://img.shields.io/badge/SSD1306-OLED-yellow.svg)](#hardware-required)
-[![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO_NAME)](#)
+[![Last Commit](https://img.shields.io/github/last-commit/pxvn/SmartThermometer-ESP32-ArduinoCloud)](#)
 
 Accurately measure temperatures without contact using an ESP32, MLX90614 IR sensor, and OLED display. Seamlessly monitor and visualize data remotely through Arduino IoT Cloud.
 
