@@ -25,7 +25,7 @@ Accurately measure temperatures without contact using an ESP32, MLX90614 IR sens
 - **1.2-second refresh interval** for temperature updates
 - **Buzzer feedback** on startup
 - **Proximity sensor** to detect objects and trigger measurements
-- **Laser pointer for aiming** (optional)
+- **Laser pointer for aiming**
 
 ## Possible Uses
 
