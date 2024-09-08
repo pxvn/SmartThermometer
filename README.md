@@ -43,7 +43,7 @@ Accurately measure temperatures without contact using an ESP32, MLX90614 IR sens
 
 ## MLX90614 Sensor Specifications
 
--   **Temperature Range:** -40°C to 125°C, -40°C to 85°C (ambient)
+-   **Temperature Range:** -70°C to 380°C
 -   **Accuracy:**  ±0.5°C 
 -   **Field of View:** ~50°
 -   **Emissivity:**  (0.1 to 1.0)
